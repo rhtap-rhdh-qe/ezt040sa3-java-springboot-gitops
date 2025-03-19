@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ezt040sa3-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ezt040sa3-java-springboot
